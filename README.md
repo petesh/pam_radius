@@ -1,5 +1,5 @@
-Linux PAM module for supporting RADIUS
-======================================
+RADIUS authentication PAM module
+================================
 
 The fundamental problem is that the freeRADIUS project's PAM module is
 available under the GPL, and not under other licenses. It turns out
@@ -18,6 +18,5 @@ licensed.
 
 References:
 
-    http://opensource.apple.com/source/pam/pam-9/pam/modules/pam_radius/
-
-    http://freeradius.org/freeradius-client/
+ - http://opensource.apple.com/source/pam/pam-9/pam/modules/pam_radius/
+ - http://freeradius.org/freeradius-client/
